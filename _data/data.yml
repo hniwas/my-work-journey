@@ -109,6 +109,7 @@ career-profile:
       Passionate for learning and applying new technologies. Lifelong learner!
 
     #  You can [download this resume here](/print.html).    
+
 education:
     title: Education
     info:
@@ -116,35 +117,21 @@ education:
         university: SFU - Beedie School of Business
         time: 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
+          Describe your study here lorem ipsum dolor sit amet...
             - Bullet point
       - degree: Business Information Technology
         university: Red River College
         time: 2018 - 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
+          Describe your study here lorem ipsum dolor...
             - Bullet point
       - degree: Data Processing
         university: Faculdades Integradas Anglo Americano
         time: 1992 - 1994
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Describe your study here lorem ipsum dolor sit amet, consectetuer...
             - Bullet point
-            - Bullet point
+            
 experiences:
     title: Experiences
     info:
@@ -153,35 +140,41 @@ experiences:
         company: Salesforce.com > Toronto, ON, Canada (previously Traction on Demand)
         details: |
             - Developed customized solutions for the client's needs using tools such as Apex language, Flow Builder.
+            - Integrated a third-party Payment solution with Salesforce platform via API calls for a Worldwide Insurance company.
+            - Implemented a custom automated e-mail delivery solution for a Aviation Non-Profit organization.
+            - Deployed the features on the different org environments.
 
       - role: Co-Founder & Advisor
         time: 2019 - 2022
         company: Ori.Gatou Creative Solutions Inc. > Winnipeg, MB, Canada
         details: |
-            - Developed the MVP software for the core product using Django framework.
+            - Conceptualized, designed & developed a MVP web app of the core technology of the platform 
+        using Python and Django framework hosted at AWS cloud.
+            - Managed the documentation, material purchase & financial reports of the DMI (Digital Manitoba Innitiative) grant. 
+            - Advised the tecnologies to be applied on the system.
 
       - role: Operations Specialist
         time: 2020 - 2021
         company: SkipTheDishes > Winnipeg, MB, Canada
         details: |
             - Provided support and solutions to the users, utilizing different procedures for each type of issue. 
-            - Developed and improved communication skills to handle escalated unsolved issues.
+            - Developed & improved communication skills to handle escalated unsolved issues.
             - Worked efficiently to provide timely support to the users.
 
       - role: Full Stack Developer
         time: 2019
         company: Red River College > Winnipeg, MB, Canada
         details: |
-            - Designed and built a web application to track all applied research projects of the College using technologies such as Meteor, React JS, and MongoDB database. 
-            - Applied the Agile methodology in this project to develop the web app in an efficient way.
-            - Used Git as the repository to maintain the source code updated between the team members.
+            - Designed & built a web application to track all applied research projects of the College using technologies such as Meteor, React JS, and MongoDB database. 
+            - Applied Agile methodology on the project to develop the web app in an efficient way.
+            - Used GitHub repository to easily maintain the source code updated between team members.
             - Created the User’s Manual for the different types of users.
 
       - role: Front End Assistant
         time: 2017 - 2019
         company: Costco Wholesale > Winnipeg, MB, Canada
         details: |
-            - Conducted the payment process of the customers as a cashier or as a cashier assistant in a fast-paced environment.
+            - Conducted payment processess for customers as a cashier or as a cashier assistant in a fast-paced environment.
             - Provided assistance to the customers finding products, checking inventory and explaining the different types of membership.
 
       - role: Director Minister
@@ -190,7 +183,7 @@ experiences:
         details: |
             - Directed Brazil’s Religious Seminary for new missionaries.
             - Managed all administrative aspects of the department in an efficient way.
-            - Helped to prepare the new missionaries by having them learning and experiencing the practice of the teachings.
+            - Coached new missionaries sharing learnings and experiencies of the teachings' practices.
             - Promoted lectures with other Ministers from Brazil, United States, and Japan to provide a wide range of teachings to the new missionaries.
 
       - role: Chief Minister
@@ -198,9 +191,9 @@ experiences:
         company: Church of Perfect Liberty - USA > San Francisco, CA, USA
         details: |
             - Coordinated the local church congregation.
-            - Organized and coordinated the events of the church such as religious seminars and courses.
-            - Participated in community events like the Annual Cherry Blossom Festival with the food booth.
-            - Guided the members individually on how to solve daily life problems and how to live with a positive state of mind.
+            - Advised and Coordinated the events of the church such as religious seminars and courses.
+            - Collaborated in community events like the Annual Cherry Blossom Festival with the food booth.
+            - Coached the members individually on how to solve daily life problems and how to live with a positive state of mind.
             - Handled sensitive members' information in a confidential manner.
             - Managed the administrative and financial aspects of the church in an efficient way.
 
@@ -209,12 +202,12 @@ experiences:
         company: Church of Perfect Liberty - Brazil > Sao Paulo - Brazil
         details: |
             - Provided I.T. technical support for the entire computer network, helping users to troubleshoot and to fix software & hardware issues.
-            - Tested and debugged the new intranet system applying changes needed for the implementation in Brazil’s region, different than Japan and North America’s implementation.
+            - Tested & debugged the new intranet system applying changes needed for the implementation in Brazil’s region, different than Japan and North America’s implementation.
             - Conducted training courses of the new intranet system for users with different technical skills, being able to modernize and secure the exchange of information inside the church.
-            - Researched and installed the whole network infrastructure to provide internet & telecom for Brazil's Main Church (HQ).
+            - Diagramed & installed the whole network infrastructure to provide internet & telecom for Brazil's Main Church (HQ).
             - Implemented a Samba File Server enabling all users to keep their files in a secure area of the server.
-            - Researched and installed Virtual Machines to test, to learn, and to compare the differences between operating systems like Ubuntu Linux, Slackware Linux, FreeBSD, Mac OS X, and Windows to make the best decision about which one to use on the active servers.
-            - Researched and studied new technologies to improve I.T. functionalities inside the church.
+            - Researched & installed Virtual Machines to test, to learn, and to compare the differences between operating systems like Ubuntu Linux, Slackware Linux, FreeBSD, Mac OS X, and Windows to make the best decision about which one to use on the active servers.
+            - Researched & implemented new technologies to improve I.T. functionalities inside the church.
 
       - role: Minister of Religion
         time: 1997 - 2001
@@ -241,15 +234,24 @@ projects:
       Testing, Deployment to Maintenance.   
     assignments:
       - title: Salesforce Platform > Custom Development
-        link: "#hook"
+        link: "#"
         tagline: "Developed customized solutions for the client's needs using Apex language, Flow Builder."
+
+      - title: Ori.Gatou's Core Application (MVP)
+        link: "#"
+        tagline: "Conceptualized, designed & developed a MVP web app of the core technology of the platform 
+        using Python and Django framework hosted at AWS cloud."
 
       - title: Applied Research Management System
         link: "#"
         tagline: "Designed and built a web application to track all applied research projects of 
         Red River College applying React JS, Meteor Framework and MongoDB database."
 
-      - title: Church of Perfect Liberty > Brazil's Portal
+      - title: Student Registration (Mock Application)
+        link: "#"
+        tagline: "Developed a MVC tudent registration system using C#, ASP.NET, LINQ using MS SQL server database."
+
+      - title: Church of Perfect Liberty > Brazil's Web Portal
         link: "#"
         tagline: "Designed and built a website with Joomla CMS, PHP, MySQL, CSS, and HTML. 
          Created a new custom theme from scratch. Customized the members' area with modules and tools 
@@ -260,6 +262,10 @@ projects:
         tagline: "Developed a check-in system for the religious events using Visual Basic and smartcard
          technology in order to register 1000 participants per event in an efficient, 
          quick and precise way."
+
+      - title: Online Resume/Portfolio
+        link: "#"
+        tagline: "Published/Created in a couple of hours, a digital Resume/Portfolio in an fast, easy & dynamic way using GitHub pages, Jekyll template, VS Code."      
 
 oss:
     title: Giving Back
@@ -352,5 +358,5 @@ skills:
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>  |  
-    Portfolio/Resume last update on April 2023.
+    Portfolio/Resume created on April 2023.
 
