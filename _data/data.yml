@@ -7,67 +7,76 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Nobuchika H. Iwasaki
+    tagline: Software Developer, Lifelong Learner
+    avatar: photo200.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: hniwas@gmail.com
+    timezone: CST Timezone
+    phone: 
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website:  #do not add http://
+    linkedin: nobuchika-heitor-iwasaki
+    
+    xing: 
+    github: 
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://www.google.com
 
     languages:
       title: Languages
       info:
         - idiom: English
+          level: Professional
+
+        - idiom: Portuguese
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: Japanese, Spanish
+          level: Intermediate
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Kaizen, Meditation
           link:
 
-        - item: Snowboarding
+        - item: Volunteering
           link:
 
-        - item: Cooking
+        - item: Badminton, Cycling
+          link:
+
+        - item: Master Chef@Home
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Experienced IT professional specialized in designing, building & 
+      delivering projects to Non-profit, Education, IT Startup, and Financial 
+      Services sectors, committed to achieve the companies' & clients' success. 
+      
+      Experienced working in a multicultural environment (Canada, Brazil, Japan, USA) 
+      with different leadership roles and responsibilities, adapting quickly to challenging 
+      situations, and applying soft skills.
+
+      Passionate for learning and applying new technologies. Lifelong learner!
+
+      You can [download this resume here](/print.html).
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Digital Transformation Management Program 
+        university: SFU - Beedie School of Business
+        time: 2022
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,9 +85,20 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Business Information Technology
+        university: Red River College
+        time: 2018 - 2020
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: Data Processing
+        university: Faculdades Integradas Anglo Americano
+        time: 1992 - 1994
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -90,132 +110,209 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Technical Consultant
+        time: 2021 - 2023
+        company: Salesforce.com > Toronto, ON - Canada (previously Traction on Demand)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Developed customized solutions for the client's needs using tools such as Apex language, Flow Builder.
+
+      - role: Co-Founder & Advisor
+        time: 2019 - 2022
+        company: Ori.Gatou Creative Solutions Inc. > Winnipeg, MB - Canada
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            - Developed the MVP software for the core product using Django framework.
+
+      - role: Operations Specialist
+        time: 2020 - 2021
+        company: SkipTheDishes > Winnipeg, MB - Canada
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Provided support and solutions to the users, utilizing different procedures for each type of issue. 
+            - Developed and improved communication skills to handle escalated unsolved issues.
+            - Worked efficiently to provide timely support to the users.
+
+      - role: Full Stack Developer
+        time: 2019
+        company: Red River College > Winnipeg, MB - Canada
+        details: |
+            - Designed and built a web application to track all applied research projects of the College using technologies such as Meteor, React JS, and MongoDB database. 
+            - Applied the Agile methodology in this project to develop the web app in an efficient way.
+            - Used Git as the repository to maintain the source code updated between the team members.
+            - Created the User’s Manual for the different types of users.
+
+      - role: Front End Assistant
+        time: 2017 - 2019
+        company: Costco Wholesale > Winnipeg, MB - Canada
+        details: |
+            - Conducted the payment process of the customers as a cashier or as a cashier assistant in a fast-paced environment.
+            - Provided assistance to the customers finding products, checking inventory and explaining the different types of membership.
+
+      - role: Director Minister
+        time: 2015 - 2017
+        company: Church of Perfect Liberty - Brazil > Sao Paulo - Brazil
+        details: |
+            - Directed Brazil’s Religious Seminary for new missionaries.
+            - Managed all administrative aspects of the department in an efficient way.
+            - Helped to prepare the new missionaries by having them learning and experiencing the practice of the teachings.
+            - Promoted lectures with other Ministers from Brazil, United States, and Japan to provide a wide range of teachings to the new missionaries.
+
+      - role: Chief Minister
+        time: 2011 - 2015
+        company: Church of Perfect Liberty - USA > San Francisco, CA - USA
+        details: |
+            - Coordinated the local church congregation.
+            - Organized and coordinated the events of the church such as religious seminars and courses.
+            - Participated in community events like the Annual Cherry Blossom Festival with the food booth.
+            - Guided the members individually on how to solve daily life problems and how to live with a positive state of mind.
+            - Handled sensitive members' information in a confidential manner.
+            - Managed the administrative and financial aspects of the church in an efficient way.
+
+      - role: I.T. Manager & Minister
+        time: 2001 - 2011
+        company: Church of Perfect Liberty - Brazil > Sao Paulo - Brazil
+        details: |
+            - Provided I.T. technical support for the entire computer network, helping users to troubleshoot and to fix software & hardware issues.
+            - Tested and debugged the new intranet system applying changes needed for the implementation in Brazil’s region, different than Japan and North America’s implementation.
+            - Conducted training courses of the new intranet system for users with different technical skills, being able to modernize and secure the exchange of information inside the church.
+            - Researched and installed the whole network infrastructure to provide internet & telecom for Brazil's Main Church (HQ).
+            - Implemented a Samba File Server enabling all users to keep their files in a secure area of the server.
+            - Researched and installed Virtual Machines to test, to learn, and to compare the differences between operating systems like Ubuntu Linux, Slackware Linux, FreeBSD, Mac OS X, and Windows to make the best decision about which one to use on the active servers.
+            - Researched and studied new technologies to improve I.T. functionalities inside the church.
+
+      - role: Minister of Religion
+        time: 1997 - 2001
+        company: Church of Perfect Liberty - Brazil > Sao Paulo - Brazil
+        details: |
+
+      - role: System Analyst
+        time: 1994 - 1996
+        company: Teletrim Telecom > Rio de Janeiro - Brazil
+        details: |
+
+      # - role: a
+      #   time: b
+      #   company: c
+      #   details: |
+      #    Describe your role here
+      #       - 1
+      #       - 2
+
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Experienced in SDLC (Software Development Life Cycle). From Analysis, Planning, Design, Coding, 
+      Testing, Deployment to Maintenance.   
     assignments:
-      - title: Velocity
+      - title: Salesforce Platform > Custom Development
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Developed customized solutions for the client's needs using Apex language, Flow Builder."
 
-      - title: DevStudio
+      - title: Applied Research Management System
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Designed and built a web application to track all applied research projects of 
+        Red River College applying React JS, Meteor Framework and MongoDB database."
 
-      - title: Tempo
+      - title: Church of Perfect Liberty > Brazil's Portal
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Designed and built a website with Joomla CMS, PHP, MySQL, CSS, and HTML. 
+         Created a new custom theme from scratch. Customized the members' area with modules and tools 
+         which helped them to receive religious content in different types of media."
 
-      - title: Atom
+      - title: Check-in System
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Developed a check-in system for the religious events using Visual Basic and smartcard
+         technology in order to register 1000 participants per event in an efficient, 
+         quick and precise way."
 
 oss:
-    title: OSS Contributions
+    title: Giving Back
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Passionate and aware of the importance of giving back to community, sharing & volunteering.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: 7 Oaks STEAM Festival 2023 (April 27 & 28, 2023)
+        link: "https://sites.google.com/connect.7oaks.org/7oaks-steam-celebration/"
+        tagline: "Scheduled to volunteer at the event as Project Evaluator & Scratch Session."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Minecraft Education Bootcamp (January ~ February 2023)
+        link: "https://education.minecraft.net/en-us/resources/computer-science"
+        tagline: "Introduced coding concepts for students Grades 5 to 8 at West St. Paul 
+         School. Coding using building-blocks similar to Scratch."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: WomenHack Winnipeg (August 30, 2022)
+        link: "https://womenhack.com/"
+        tagline: "The event promotes gender equality in tech and helps people get hired
+         at companies committed to diversity in the workplace. 
+         Helped to organize the event hosted by Ori.Gatou Creative Solutions & 
+         North Forge."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
+      - title: Other Volunteering Activities
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        tagline: "2023 Yonex Senior & Para National Badminton Championships (Feb 2023)  /  
+        Wrapping for a Cure 2022, Cystic Fibrosis Canada (Dec 2022)  /  
+        Manitoba Harvest (Dec 2022)."
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills (Hard & Soft) &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Apex language, Flow Builder (Salesforce.com)
+        level: 75%
+      
+      - name: C#, ASP.NET, LINQ, MS-SQL, .NET Framework
+        level: 30%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript, Typescript
+        level: 50%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
+      - name: React JS, Meteor
+        level: 50%
+      
+      - name: Python, Django
+        level: 40%
 
       - name: Ruby on Rails
-        level: 85%
+        level: 30%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Svelte
+        level: 25%
+      
+      - name: PHP
+        level: 40%
+
+      - name: MySQL, PostgreSQL, MongoDB (Databases)
+        level: 50%
+      
+      - name: Linux Servers
+        level: 75%
+
+      - name: Agile, MVC (Methodologies)
+        level: 80%
+
+      - name: Teamwork, Leadership, Self-taught
+        level: 90%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>  |  
+    Portfolio/Resume last update on April 2023.
+
