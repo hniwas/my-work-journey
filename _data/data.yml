@@ -142,16 +142,15 @@ experiences:
             - Developed customized solutions for the client's needs using tools such as Apex language, Flow Builder.
             - Integrated a third-party Payment solution with Salesforce platform via API calls for a Worldwide Insurance company.
             - Implemented a custom automated e-mail delivery solution for a Aviation Non-Profit organization.
-            - Deployed the features on the different org environments.
+            - Deployed the new/update features on the different org environments.
 
       - role: Co-Founder & Advisor
         time: 2019 - 2022
         company: Ori.Gatou Creative Solutions Inc. > Winnipeg, MB, Canada
         details: |
-            - Conceptualized, designed & developed a MVP web app of the core technology of the platform 
-        using Python and Django framework hosted at AWS cloud.
+            - Conceptualized, designed & developed a MVP web app of the core technology of the platform using Python and Django framework hosted at AWS cloud.
             - Managed the documentation, material purchase & financial reports of the DMI (Digital Manitoba Innitiative) grant. 
-            - Advised the tecnologies to be applied on the system.
+            - Advised & researched on the tecnologies to be applied on the system.
 
       - role: Operations Specialist
         time: 2020 - 2021
@@ -265,7 +264,7 @@ projects:
 
       - title: Online Resume/Portfolio
         link: "#"
-        tagline: "Published/Created in a couple of hours, a digital Resume/Portfolio in an fast, easy & dynamic way using GitHub pages, Jekyll template, VS Code."      
+        tagline: "Created & published in just a couple of hours, a digital Resume/Portfolio in an fast, easy & dynamic way using GitHub pages, Jekyll template, VS Code."      
 
 oss:
     title: Giving Back
