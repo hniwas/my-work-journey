@@ -57,6 +57,44 @@ sidebar:
         - item: Master Chef@Home
           link:
 
+c-letter-exro:
+    title: Cover Letter Exro
+    # Mr. Johannes Hoffmann / Director, Product Development & Functional Safety
+    # As my Personal Profile [Resume online](/index.html) will demonstrate, working mainly in the I.T.
+    summary: |
+      Product Development & Functional Safety<br>
+      Exro Technologies<br>
+      Innovation Headquarters<br>
+      Calgary, AB<br><br>
+      
+      April 14, 2023<br><br>
+    
+
+      Dear Mr. Hoffmann,
+
+      I am applying for the C# Software Developer position referred by Tony Le. 
+      
+      Working mainly in the I.T. field +15 years provided me to develop different projects with various technologies. 
+      
+      It broadened my ability to become a proficient problem solver, to work pro-actively on a team, to communicate 
+      and collaborate with all stakeholders & to deliver customer excellence with the solutions created. 
+      
+      Methodologies such as SDLC (Software Development Life Cycle), Agile and MVC were implemented to help deploying systems 
+      efficiently and in a timely manner.
+
+      I am amazed with Exro's commitment of building a cleaner and more sustainable electrified world with the development of 
+      new technologies for electric vehicles and the innovative energy storage systems using retired EV batteries.
+
+      I am excited to build upon my current experience and add my values to Exro's growth and success.
+      
+      Passionate for learning and applying new technologies, Lifelong learner!<br><br>
+      
+      Sincerely,
+      
+      Nobuchika Iwasaki<br><br>
+
+      Link to [Personal Profile/Resume here](/index.html).    
+
 career-profile:
     title: Career Profile
     summary: |
