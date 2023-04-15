@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/1Ft4guW6Qdq9rSoVyWpwthfXNi_261LLE/view?usp=share_link
+    pdf: https://drive.google.com/file/d/128N9wTfejx4l4u98iYQ4eTxViyciBHoD/view?usp=sharing
 
     languages:
       title: Languages
@@ -349,11 +349,14 @@ skills:
       - name: Linux Servers
         level: 75%
 
-      - name: Agile, MVC (Methodologies)
+      - name: Agile, SLDC, MVC (Methodologies)
         level: 80%
 
-      - name: Teamwork, Leadership, Self-taught
+      - name: Problem-Solving, Goal-oriented, Resilient
         level: 90%
+
+      - name: Teamwork, Leadership
+        level: 95%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>  |  
