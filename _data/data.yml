@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://www.google.com
+    pdf: https://drive.google.com/file/d/1Ft4guW6Qdq9rSoVyWpwthfXNi_261LLE/view?usp=share_link
 
     languages:
       title: Languages
@@ -64,13 +64,13 @@ career-profile:
       delivering projects to Non-profit, Education, IT Startup, and Financial 
       Services sectors, committed to achieve the companies' & clients' success. 
       
-      Experienced working in a multicultural environment (Canada, Brazil, Japan, USA) 
+      Worked in a multicultural environment (Canada, Brazil, Japan, USA) 
       with different leadership roles and responsibilities, adapting quickly to challenging 
       situations, and applying soft skills.
 
       Passionate for learning and applying new technologies. Lifelong learner!
 
-      You can [download this resume here](/print.html).
+    #  You can [download this resume here](/print.html).    
 education:
     title: Education
     info:
@@ -112,19 +112,19 @@ experiences:
     info:
       - role: Technical Consultant
         time: 2021 - 2023
-        company: Salesforce.com > Toronto, ON - Canada (previously Traction on Demand)
+        company: Salesforce.com > Toronto, ON, Canada (previously Traction on Demand)
         details: |
             - Developed customized solutions for the client's needs using tools such as Apex language, Flow Builder.
 
       - role: Co-Founder & Advisor
         time: 2019 - 2022
-        company: Ori.Gatou Creative Solutions Inc. > Winnipeg, MB - Canada
+        company: Ori.Gatou Creative Solutions Inc. > Winnipeg, MB, Canada
         details: |
             - Developed the MVP software for the core product using Django framework.
 
       - role: Operations Specialist
         time: 2020 - 2021
-        company: SkipTheDishes > Winnipeg, MB - Canada
+        company: SkipTheDishes > Winnipeg, MB, Canada
         details: |
             - Provided support and solutions to the users, utilizing different procedures for each type of issue. 
             - Developed and improved communication skills to handle escalated unsolved issues.
@@ -132,7 +132,7 @@ experiences:
 
       - role: Full Stack Developer
         time: 2019
-        company: Red River College > Winnipeg, MB - Canada
+        company: Red River College > Winnipeg, MB, Canada
         details: |
             - Designed and built a web application to track all applied research projects of the College using technologies such as Meteor, React JS, and MongoDB database. 
             - Applied the Agile methodology in this project to develop the web app in an efficient way.
@@ -141,14 +141,14 @@ experiences:
 
       - role: Front End Assistant
         time: 2017 - 2019
-        company: Costco Wholesale > Winnipeg, MB - Canada
+        company: Costco Wholesale > Winnipeg, MB, Canada
         details: |
             - Conducted the payment process of the customers as a cashier or as a cashier assistant in a fast-paced environment.
             - Provided assistance to the customers finding products, checking inventory and explaining the different types of membership.
 
       - role: Director Minister
         time: 2015 - 2017
-        company: Church of Perfect Liberty - Brazil > Sao Paulo - Brazil
+        company: Church of Perfect Liberty - Brazil > Sao Paulo, Brazil
         details: |
             - Directed Brazil’s Religious Seminary for new missionaries.
             - Managed all administrative aspects of the department in an efficient way.
@@ -157,7 +157,7 @@ experiences:
 
       - role: Chief Minister
         time: 2011 - 2015
-        company: Church of Perfect Liberty - USA > San Francisco, CA - USA
+        company: Church of Perfect Liberty - USA > San Francisco, CA, USA
         details: |
             - Coordinated the local church congregation.
             - Organized and coordinated the events of the church such as religious seminars and courses.
@@ -180,12 +180,12 @@ experiences:
 
       - role: Minister of Religion
         time: 1997 - 2001
-        company: Church of Perfect Liberty - Brazil > Sao Paulo - Brazil
+        company: Church of Perfect Liberty - Brazil > Sao Paulo, Brazil
         details: |
 
       - role: System Analyst
         time: 1994 - 1996
-        company: Teletrim Telecom > Rio de Janeiro - Brazil
+        company: Teletrim Telecom > Rio de Janeiro, Brazil
         details: |
 
       # - role: a
