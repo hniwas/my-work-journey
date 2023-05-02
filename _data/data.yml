@@ -141,7 +141,7 @@ experiences:
         details: |
             - Developed customized solutions for the client's needs using tools such as Apex language, Flow Builder.
             - Integrated a third-party Payment solution with Salesforce platform via API calls for a Worldwide Insurance company.
-            - Implemented a custom automated e-mail delivery solution for a Aviation Non-Profit organization.
+            - Implemented a custom automated e-mail delivery solution for a Aviation Non-Profit organization using Aura Components & Email-Templating.
             - Deployed the new/update features on the different org environments.
 
       - role: Co-Founder & Advisor
@@ -234,7 +234,7 @@ projects:
     assignments:
       - title: Salesforce Platform > Custom Development
         link: "#"
-        tagline: "Developed customized solutions for the client's needs using Apex language, Flow Builder."
+        tagline: "Developed customized solutions for the client's needs using Apex language, Flow Builder, Aura Components."
 
       - title: Ori.Gatou's Core Application (MVP)
         link: "#"
