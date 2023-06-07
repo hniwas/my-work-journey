@@ -235,10 +235,6 @@ projects:
         link: "#"
         tagline: "Developed customized solutions for the client's needs using Apex language, Flow Builder, Aura Components."
 
-      - title: Salesforce.com > Internal Role (Volunteer)
-        link: "#"
-        tagline: "Trailblazer Guide 2023 - Certified to share about SFDC platform to the community | Wellbeing Lead of the Culture Club 2023 - Cross OU."
-
       - title: Ori.Gatou's Core Application (MVP)
         link: "#"
         tagline: "Conceptualized, designed & developed a MVP web app of the core technology of the platform 
@@ -280,6 +276,10 @@ oss:
       - title: 7 Oaks STEAM Festival 2023 (April 27 & 28, 2023)
         link: "https://sites.google.com/connect.7oaks.org/7oaks-steam-celebration/"
         tagline: "Project Evaluator on students' projects Grades 5 to 12 > 7 Oaks School Division."
+
+      - title: Salesforce.com > Internal Role (Volunteer)
+        link: "#"
+        tagline: "Trailblazer Guide 2023 - Certified to share about SFDC platform to the community | Wellbeing Lead of the Culture Club 2023 - Cross OU."
 
       - title: Minecraft Education Bootcamp (January ~ February 2023)
         link: "education.minecraft.net/en-us/resources/computer-science"
