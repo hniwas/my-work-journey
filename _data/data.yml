@@ -235,6 +235,10 @@ projects:
         link: "#"
         tagline: "Developed customized solutions for the client's needs using Apex language, Flow Builder, Aura Components."
 
+      - title: Salesforce.com > Internal Role (Volunteer)
+        link: "#"
+        tagline: "Trailblazer Guide 2023 - Certified to share about SFDC platform to the community | Wellbeing Lead of the Culture Club 2023 - Cross OU."
+
       - title: Ori.Gatou's Core Application (MVP)
         link: "#"
         tagline: "Conceptualized, designed & developed a MVP web app of the core technology of the platform 
@@ -258,12 +262,11 @@ projects:
       - title: Check-in System
         link: "#"
         tagline: "Developed a check-in system for the religious events using Visual Basic and smartcard
-         technology in order to register 1000 participants per event in an efficient, 
-         quick and precise way."
+         technology in order to register 1000 participants per event in an efficient, quick and precise way."
 
       - title: Online Resume/Portfolio
         link: "#"
-        tagline: "Created & published in a couple of hours, a digital Resume/Portfolio in an fast, easy & dynamic way using GitHub pages, Jekyll template, VS Code."      
+        tagline: "Created & published in a couple of hours a digital Resume/Portfolio in a fast, easy & dynamic way using GitHub pages, Jekyll template, VS Code."      
 
 oss:
     title: Giving Back
