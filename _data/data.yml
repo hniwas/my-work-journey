@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Nobuchika H. Iwasaki
-    tagline: Software Developer, Lifelong Learner
+    tagline: IT MacGyver, Lifelong Learner
     avatar: photo200.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -247,7 +247,7 @@ projects:
 
       - title: Student Registration (Mock Application)
         link: "#"
-        tagline: "Developed a MVC tudent registration system using C#, ASP.NET, LINQ using MS SQL server database."
+        tagline: "Developed a MVC student registration system using C#, ASP.NET, LINQ using MS SQL server database."
 
       - title: Church of Perfect Liberty > Brazil's Web Portal
         link: "#"
