@@ -141,7 +141,7 @@ experiences:
             - Developed customized solutions for the client’s needs using tools such as Apex language, Flow Builder.
             - Integrated a third-party Payment solution with the Salesforce platform via API calls for a Worldwide Insurance company (Experience Cloud).
             - Implemented a custom automated e-mail delivery solution for an Aviation Nonprofit organization using Aura Components & Email-Templating (NPSP - Nonprofit Success Pack).
-            - Deployed new & updated features on the different org environments.
+            - Deployed new & updated features in different org environments.
 
       - role: Co-Founder & Advisor
         time: 2019 - 2022
@@ -172,7 +172,7 @@ experiences:
         time: 2017 - 2019
         company: Costco Wholesale > Winnipeg, MB, Canada
         details: |
-            - Conducted payment processess for customers as a cashier or as a cashier assistant in a fast-paced environment.
+            - Conducted payment processes for customers as a cashier or as a cashier assistant in a fast-paced environment.
             - Provided assistance to the customers finding products, checking inventory and explaining the different types of membership.
 
       - role: Director Minister
@@ -189,23 +189,23 @@ experiences:
         company: Church of Perfect Liberty - USA > San Francisco, CA, USA
         details: |
             - Coordinated the local church congregation.
-            - Advised and Coordinated the events of the church such as religious seminars and courses.
+            - Advised and coordinated the events of the church such as religious seminars and courses.
             - Collaborated in community events like the Annual Cherry Blossom Festival with the food booth.
             - Coached the members individually on how to solve daily life problems and how to live with a positive state of mind.
             - Handled sensitive members' information in a confidential manner.
             - Managed the administrative and financial aspects of the church in an efficient way.
 
-      - role: I.T. Manager & Minister
+      - role: IT Manager & Minister
         time: 2001 - 2011
         company: Church of Perfect Liberty - Brazil > Sao Paulo - Brazil
         details: |
-            - Provided I.T. technical support for the entire computer network, helping users to troubleshoot and to fix software & hardware issues.
+            - Provided IT technical support for the entire computer network, helping users to troubleshoot and to fix software & hardware issues.
             - Tested & debugged the new intranet system applying changes needed for the implementation in Brazil’s region, different than Japan and North America’s implementation.
             - Conducted training courses of the new intranet system for users with different technical skills, being able to modernize and secure the exchange of information inside the church.
             - Diagramed & installed the whole network infrastructure to provide internet & telecom for Brazil's Main Church (HQ).
             - Implemented a Samba File Server enabling all users to keep their files in a secure area of the server.
             - Researched & installed Virtual Machines to test, to learn, and to compare the differences between operating systems like Ubuntu Linux, Slackware Linux, FreeBSD, Mac OS X, and Windows to make the best decision about which one to use on the active servers.
-            - Researched & implemented new technologies to improve I.T. functionalities inside the church.
+            - Researched & implemented new technologies to improve IT functionalities inside the church.
 
       - role: Minister of Religion
         time: 1997 - 2001
@@ -233,7 +233,7 @@ projects:
     assignments:
       - title: Salesforce Platform > Custom Development
         link: "#"
-        tagline: "Developed customized solutions for the client's needs using Apex language, Flow Builder, Aura Components."
+        tagline: "Developed customized solutions for the client's needs using Apex language, Flow Builder, Aura components."
 
       - title: Ori.Gatou's Core Application (MVP)
         link: "#"
@@ -253,16 +253,16 @@ projects:
         link: "#"
         tagline: "Designed and built a website with Joomla CMS, PHP, MySQL, CSS, and HTML. 
          Created a new custom theme from scratch. Customized the members' area with modules and tools 
-         which helped them to receive religious content in different types of media."
+         which helped them to receive religious contents in different types of media in a secure system."
 
       - title: Check-in System
         link: "#"
-        tagline: "Developed a check-in system for the religious events using Visual Basic and smartcard
-         technology in order to register 1000 participants per event in an efficient, quick and precise way."
+        tagline: "Developed a check-in system for the religious events using Visual Basic and Smartcard
+         technology in order to register more than 1000 participants per event in an efficient, quick and precise way."
 
       - title: Online Resume/Portfolio
         link: "#"
-        tagline: "Created & published in a couple of hours a digital Resume/Portfolio in a fast, easy & dynamic way using GitHub pages, Jekyll template, VS Code."      
+        tagline: "Created & published in a couple of hours a digital Resume/Portfolio in a fast, easy & dynamic way using GitHub pages, Jekyll template and VS Code."      
 
       - title: "@Sharing2World"
         link: "#"
@@ -287,7 +287,7 @@ oss:
       - title: Minecraft Education Bootcamp (January ~ February 2023)
         link: "education.minecraft.net/en-us/resources/computer-science"
         tagline: "Introduced coding concepts for students Grades 5 to 8 at West St. Paul 
-         School. Coding using building-blocks similar to Scratch."
+         School. Coding using building blocks similar to Scratch."
 
       - title: WomenHack Winnipeg (August 30, 2022)
         link: "#https://womenhack.com/"
@@ -353,7 +353,7 @@ skills:
         level: 40%
 
       - name: MySQL, PostgreSQL, MongoDB (Databases)
-        level: 50%
+        level: 70%
       
       - name: Linux Servers
         level: 75%
