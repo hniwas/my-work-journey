@@ -98,9 +98,9 @@ c-letter-exro:
 career-profile:
     title: Career Profile
     summary: |
-      Experienced IT professional specialized in designing, building & 
-      delivering projects to Non-profit, Education, IT Startup, and Financial 
-      Services sectors, committed to achieve the companies' & clients' success. 
+      Experienced IT professional specialized in designing, building & delivering projects 
+      to Non-profit, Education, IT Startup, and Financial Services sectors, committed to 
+      achieving the companies’ & clients’ success.
       
       Worked in a multicultural environment (Canada, Brazil, Japan, USA) 
       with different leadership roles and responsibilities, adapting quickly to challenging 
@@ -139,18 +139,18 @@ experiences:
         time: 2021 - 2023
         company: Salesforce.com > Toronto, Ontario, Canada - Remote (previously Traction on Demand)
         details: |
-            - Developed customized solutions for the client's needs using tools such as Apex language, Flow Builder.
-            - Integrated a third-party Payment solution with Salesforce platform via API calls for a Worldwide Insurance company.
-            - Implemented a custom automated e-mail delivery solution for a Aviation Non-Profit organization using Aura Components & Email-Templating.
-            - Deployed the new/update features on the different org environments.
+            - Developed customized solutions for the client’s needs using tools such as Apex language, Flow Builder.
+            - Integrated a third-party Payment solution with the Salesforce platform via API calls for a Worldwide Insurance company.
+            - Implemented a custom automated e-mail delivery solution for an Aviation Non-Profit organization using Aura Components & Email-Templating.
+            - Deployed new & updated features on the different org environments.
 
       - role: Co-Founder & Advisor
         time: 2019 - 2022
         company: Ori.Gatou Creative Solutions Inc. > Manitoba, Canada
         details: |
             - Conceptualized, designed & developed a MVP web app of the core technology of the platform using Python and Django framework hosted at AWS cloud.
-            - Managed the documentation, material purchase & financial reports of the DMI (Digital Manitoba Innitiative) grant. 
-            - Advised & researched on the tecnologies to be applied on the system.
+            - Managed the documentation, material purchase & financial reports of the DMI (Digital Manitoba Initiative) grant.
+            - Advised & researched the technologies to be applied to the system.
 
       - role: Operations Specialist
         time: 2020 - 2021
@@ -264,7 +264,7 @@ projects:
 
       - title: Online Resume/Portfolio
         link: "#"
-        tagline: "Created & published in just a couple of hours, a digital Resume/Portfolio in an fast, easy & dynamic way using GitHub pages, Jekyll template, VS Code."      
+        tagline: "Created & published in a couple of hours, a digital Resume/Portfolio in an fast, easy & dynamic way using GitHub pages, Jekyll template, VS Code."      
 
 oss:
     title: Giving Back
