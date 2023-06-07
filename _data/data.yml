@@ -139,8 +139,8 @@ experiences:
         company: Salesforce.com > Toronto, Ontario, Canada - Remote (previously Traction on Demand)
         details: |
             - Developed customized solutions for the client’s needs using tools such as Apex language, Flow Builder.
-            - Integrated a third-party Payment solution with the Salesforce platform via API calls for a Worldwide Insurance company.
-            - Implemented a custom automated e-mail delivery solution for an Aviation Non-Profit organization using Aura Components & Email-Templating.
+            - Integrated a third-party Payment solution with the Salesforce platform via API calls for a Worldwide Insurance company (Experience Cloud).
+            - Implemented a custom automated e-mail delivery solution for an Aviation Non-Profit organization using Aura Components & Email-Templating (NPSP - Nonprofit Success Pack).
             - Deployed new & updated features on the different org environments.
 
       - role: Co-Founder & Advisor
@@ -163,7 +163,7 @@ experiences:
         time: 2019
         company: Red River College > Winnipeg, MB, Canada
         details: |
-            - Designed & built a web application to track all applied research projects of the College using technologies such as Meteor, React JS, and MongoDB database. 
+            - Designed & built a web application to track all applied research projects (grant management) of the College using technologies such as Meteor, React JS, and MongoDB database. 
             - Applied Agile methodology on the project to develop the web app in an efficient way.
             - Used GitHub repository to easily maintain the source code updated between team members.
             - Created the User’s Manual for the different types of users.
@@ -242,7 +242,7 @@ projects:
 
       - title: Applied Research Management System
         link: "#"
-        tagline: "Designed and built a web application to track all applied research projects of 
+        tagline: "Designed and built a web application to track all applied research projects (grant management) of 
         Red River College applying React JS, Meteor Framework and MongoDB database."
 
       - title: Student Registration (Mock Application)
