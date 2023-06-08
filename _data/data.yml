@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: hniwas@gmail.com
     timezone: CST Timezone
-    phone: 
+    phone: 204-960-4131
     citizenship:
     website:  #do not add http://
     linkedin: nobuchika-heitor-iwasaki
@@ -92,7 +92,46 @@ c-letter-exro:
       
       Nobuchika Iwasaki<br><br>
 
-      Link to my [Online Resume here](/my-work-journey/index.html).    
+      Link to my [Online Resume here](/my-work-journey/index.html).
+
+c-letter-cfcc:
+    title: Cover Letter ~ Community Food Centre Canada
+    # As my Personal Profile [Resume online](/index.html) will demonstrate, working mainly in the I.T. ...
+    summary: |
+      Community Food Centre Canada (CFCC)<br>
+      80 Ward St, suite 100<br>
+      Toronto, ON<br><br>
+      
+      June 08, 2023<br><br>
+    
+
+      Dear Annie Tran,
+
+      I am applying for Salesforce Administrator position posted on LinkedIn. 
+      
+      Working mainly in the I.T. field +15 years provided me to develop different projects with various technologies. 
+      
+      It broadened my ability to become a proficient problem solver, to work pro-actively on a team, to communicate 
+      and collaborate with all stakeholders & to deliver customer excellence with the solutions created according to their
+      business requirments. 
+      
+      At Salesforce.com (SFDC), I learned & used part of the various features out-of-the-box that SFDC platform offers. 
+      I developed customized solutions for the clients' needs using tools such as Flow Builder, Apex language.
+
+      Working with NPSP, I could understand the specific objects added to the core platform helping Nonprofit organizations
+      with their needs.
+
+      As an additional advantage working directly for SFDC, I created a networking of brilliant people that helps to create
+      this platform, and are willing to help me if I need any guidance on this huge ecosystem. 
+
+      I am passionate of working in Nonprofit environment and understand their value, as I had already the chance 
+      of doing so for +20 years.
+
+      Sincerely,
+      
+      Nobuchika Iwasaki<br><br>
+
+      Link to my [Online Resume here](/my-work-journey/index.html) https://hniwas.github.io/my-work-journey/.    
 
 career-profile:
     title: Career Profile
